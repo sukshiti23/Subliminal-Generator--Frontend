@@ -4,6 +4,7 @@ Subliminal Generator is a curated platform that recommends the top 4 subliminals
 💻 Frontend
 
 React.js – A powerful library for building interactive user interfaces.
-💬 Language
+
+💬 Language 
 
 JavaScript
